@@ -1,5 +1,3 @@
 ubuntu:22.04
 ubuntu:20.04
 centos:centos7.9.2009
-# 支持指定架构
---platform=linux/amd64
